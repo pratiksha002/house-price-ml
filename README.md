@@ -153,3 +153,9 @@ house-price-ml/
 
 ```bash
 pip install -r requirements.txt
+
+## 🏆 Kaggle Submission
+
+Final model was used to generate predictions for Kaggle competition.
+
+Submission file: `submissions/submission.csv`
